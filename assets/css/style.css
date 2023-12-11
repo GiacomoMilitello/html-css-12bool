@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: 1px dashed black; */
+}
+.container-400{
+    width: 450px;
+    margin: 40px auto;
+}
+.border{
+    background-color: #724724;
+    height: 40px;
+}
+.brown{
+    background-color: #b48c62;
+    height: 40px;
+}
+.light-brown{
+    background-color: #dfb386;
+    height: 40px;
+}
+.black{
+    background-color: black;
+    height: 40px;
+}
+.red{
+    background-color: rgb(167, 29, 29);
+    height: 40px;
+}
